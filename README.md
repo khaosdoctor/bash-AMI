@@ -1,5 +1,7 @@
 # bash-AMI
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/507837366e984f66a2f4455b9163c80e)](https://www.codacy.com/app/khaosdoctor/bash-AMI?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=khaosdoctor/bash-AMI&amp;utm_campaign=Badge_Grade)
+
 > Bash script to remotely create AWS Machine Images
 
 ## Usage
